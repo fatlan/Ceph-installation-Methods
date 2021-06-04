@@ -15,7 +15,7 @@ Ceph PGs per Pool Calculator - [https://ceph.io/pgcalc/](https://ceph.io/pgcalc/
 
 Ceph Deploy - [ceph-deploy manual](https://docs.ceph.com/en/nautilus/install/install-ceph-deploy/) | [ceph git project](https://github.com/ceph/ceph) <br>
 
-Cephadm - [cephadm master(branch)](https://github.com/ceph/ceph/blob/master/src/cephadm/cephadm) | [cephadm pasific(branch)](https://raw.githubusercontent.com/ceph/ceph/pacific/src/cephadm/cephadm) | [cephadm octopus(branch)](https://raw.githubusercontent.com/ceph/ceph/octopus/src/cephadm/cephadm) | [ceph container git project](https://github.com/ceph/ceph-container) <br>
+Cephadm - [cephadm master(branch)](https://github.com/ceph/ceph/blob/master/src/cephadm/cephadm) | [cephadm pasific(branch)](https://raw.githubusercontent.com/ceph/ceph/pacific/src/cephadm/cephadm) | [cephadm octopus(branch)](https://raw.githubusercontent.com/ceph/ceph/octopus/src/cephadm/cephadm) | [ceph container git](https://github.com/ceph/ceph-container) <br>
 
 Ceph Ansible - [ceph-ansible git project](https://github.com/ceph/ceph-ansible) <br>
 
