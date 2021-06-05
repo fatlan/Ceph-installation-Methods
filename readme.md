@@ -23,6 +23,6 @@ Ceph GUI - [cockpit-ceph-installer redhat git project](https://github.com/red-ha
 
 Ceph NANO - [cn - ceph nano tool](https://github.com/ceph/cn) | [ceph container git project](https://github.com/ceph/ceph-container) <br>
 
-Rook Ceph(Kubernetes) - [cloud-native storage orchestrator with ceph install](https://rook.io/docs/rook/v1.5/ceph-quickstart.html) <br>
+Rook Ceph(Kubernetes) - [ceph install with cloud-native storage orchestrator](https://rook.io/docs/rook/v1.5/ceph-quickstart.html) <br>
 
 Kubernetes + Helm - [ceph install with kube-helm](https://docs.ceph.com/en/nautilus/start/kube-helm/)
