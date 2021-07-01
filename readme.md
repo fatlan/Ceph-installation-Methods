@@ -25,4 +25,6 @@ Ceph NANO - [cn - ceph nano tool](https://github.com/ceph/cn) | [ceph container 
 
 Rook Ceph(Kubernetes) - [ceph install with cloud-native storage orchestrator](https://rook.io/docs/rook/v1.5/ceph-quickstart.html) <br>
 
-Kubernetes + Helm - [ceph install with kube-helm](https://docs.ceph.com/en/nautilus/start/kube-helm/)
+Kubernetes + Helm - [ceph install with kube-helm](https://docs.ceph.com/en/nautilus/start/kube-helm/) <br>
+
+Ceph Compose - [ceph install with docker-compose](https://github.com/fatlan/Ceph-Docker-Compose)
