@@ -7,13 +7,18 @@
 ### Ceph version list
 Ceph version list - [https://en.wikipedia.org/wiki/Ceph_(software)](https://en.wikipedia.org/wiki/Ceph_(software))
 
+### Ceph packages
+Ceph packages - [http://us-west.ceph.com/](http://us-west.ceph.com/)
+
 ### Ceph Calculator
 Ceph PGs per Pool Calculator - [https://ceph.io/pgcalc/](https://ceph.io/pgcalc/)
 
 ---
 ### Installation Methods <br>
 
-Ceph Deploy - [ceph-deploy manual](https://docs.ceph.com/en/nautilus/install/install-ceph-deploy/) | [ceph git project](https://github.com/ceph/ceph) <br>
+Ceph Manual Installation - [deploy a cluster manually](https://docs.ceph.com/en/latest/install/index_manual/#deploy-a-cluster-manually) <br>
+
+Ceph Deploy - [ceph-deploy installation](https://docs.ceph.com/en/nautilus/install/install-ceph-deploy/) | [ceph git project](https://github.com/ceph/ceph) <br>
 
 Cephadm - [cephadm master(branch)](https://github.com/ceph/ceph/blob/master/src/cephadm/cephadm) | [cephadm pasific(branch)](https://raw.githubusercontent.com/ceph/ceph/pacific/src/cephadm/cephadm) | [cephadm octopus(branch)](https://raw.githubusercontent.com/ceph/ceph/octopus/src/cephadm/cephadm) | [ceph container git](https://github.com/ceph/ceph-container) <br>
 
