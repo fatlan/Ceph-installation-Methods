@@ -8,7 +8,7 @@
 Ceph version list - [https://en.wikipedia.org/wiki/Ceph_(software)](https://en.wikipedia.org/wiki/Ceph_(software))
 
 ### Ceph packages
-Ceph packages - [http://us-west.ceph.com/](http://us-west.ceph.com/)
+Ceph packages - [http://us-west.ceph.com/](http://us-west.ceph.com/) | [https://download.ceph.com/](https://download.ceph.com/) | [https://mirrors.tuna.tsinghua.edu.cn/](https://mirrors.tuna.tsinghua.edu.cn/)
 
 ### Ceph Calculator
 Ceph PGs per Pool Calculator - [https://ceph.io/pgcalc/](https://ceph.io/pgcalc/)
