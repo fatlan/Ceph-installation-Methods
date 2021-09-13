@@ -18,7 +18,7 @@ Ceph PGs per Pool Calculator - [https://ceph.io/pgcalc/](https://ceph.io/pgcalc/
 
 Ceph Manual Installation - [deploy a cluster manually](https://docs.ceph.com/en/latest/install/index_manual/#deploy-a-cluster-manually) <br>
 
-Ceph Deploy - [İnstallation(fatlan.com)](https://www.fatlan.com/01-09-2021-ceph-deploy-ile-ubuntu-linux-16-ve-20-uzerinde-ceph-pasific-cluster-storage-kurulumu-object-storage/) | [ceph-deploy installation](https://docs.ceph.com/en/nautilus/install/install-ceph-deploy/) | [ceph git project](https://github.com/ceph/ceph) <br>
+Ceph Deploy - [Installation(fatlan.com)](https://www.fatlan.com/01-09-2021-ceph-deploy-ile-ubuntu-linux-16-ve-20-uzerinde-ceph-pasific-cluster-storage-kurulumu-object-storage/) | [ceph-deploy installation](https://docs.ceph.com/en/nautilus/install/install-ceph-deploy/) | [ceph git project](https://github.com/ceph/ceph) <br>
 
 Cephadm - [cephadm master(branch)](https://github.com/ceph/ceph/blob/master/src/cephadm/cephadm) | [cephadm pasific(branch)](https://raw.githubusercontent.com/ceph/ceph/pacific/src/cephadm/cephadm) | [cephadm octopus(branch)](https://raw.githubusercontent.com/ceph/ceph/octopus/src/cephadm/cephadm) | [ceph container git](https://github.com/ceph/ceph-container) <br>
 
